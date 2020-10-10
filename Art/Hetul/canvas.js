@@ -50,13 +50,3 @@ class snowfall{
 }
 
 setInterval(()=> snowfall.snowFall(),20);
-let cards = [	
-	//  Add your card in this section	
-	{	
-	  artName: 'snowfall animation using canvas',	
-	  pageLink: 'C:\Users\KILLEERR\Canvas-Creations\Art\Hetul\index.html',	
-	  imageLink: 'C:\Users\KILLEERR\Canvas-Creations\Art\Hetul\ezgif.com-gif-maker.gif',	
-	  author: 'Hetul',	
-	  githubLink: 'https://github.com/Hetul79'	
-	}	
-  ];
